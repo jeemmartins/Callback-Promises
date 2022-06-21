@@ -1,0 +1,9 @@
+{
+  "name": "callbacks",
+  "version": "1.0.0",
+  "main": "promise.js",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "2"
+  }
+}
